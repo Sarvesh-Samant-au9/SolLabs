@@ -1,0 +1,13 @@
+.red {
+  color: red;
+}
+.green {
+  color: green;
+}
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-top: 20px;
+}
